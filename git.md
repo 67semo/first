@@ -7,7 +7,7 @@
 - [깃 메뉴얼](https://git-scm.com/book/ko/v2/)
 
 ### 개 요
-1. Git의 개념도
+1. Git의 개념도 /n
 ![Git 개념도](img/git_concept_dgr.png)
 2. 개념의 이해 및 자유도를 높이기 위해서는 콘솔을 사용하라는 조언에 의하여 콘솔을 사용해봅니다.
 
