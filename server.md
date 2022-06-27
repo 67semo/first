@@ -1,8 +1,8 @@
 # 현서버 사양
-  프로세서 : Intel Core(TM) i3-2100 CPU @3.1GHz
-  memory : 8.00GB
-  OS : Windows 10 Pro 64bit
-  Server 운영프로그램 : 아파치
+  프로세서 : Intel Core(TM) i3-2100 CPU @3.1GHz <br>
+  memory : 8.00GB <br>
+  OS : Windows 10 Pro 64bit <br>
+  Server 운영프로그램 : 아파치 <br>
 
 ## 다중서버 운영
 
